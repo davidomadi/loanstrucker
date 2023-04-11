@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "description": "Salary Loan",
+        "account_name": "David Omadi",
+        "account_number": "1003004559",
+        "due_date": "2023-07-31",
+        "date_disbursed": "2023-04-11 14:43:51",
+        "amount": "5000000"
+    },
+    {
+        "id": "6",
+        "description": "Agriculture Loan",
+        "account_name": "David Omadi",
+        "account_number": "1003004559",
+        "due_date": "2024-05-31",
+        "date_disbursed": "2023-04-11 15:02:15",
+        "amount": "2000000"
+    },
+    {
+        "id": "5",
+        "description": "Student Loan",
+        "account_name": "Ivan Odur",
+        "account_number": "1003004561",
+        "due_date": "1970-01-01",
+        "date_disbursed": "2023-04-11 14:58:14",
+        "amount": "450000"
+    },
+    {
+        "id": "2",
+        "description": "Motgage",
+        "account_name": "Mable Birungi",
+        "account_number": "1003004562",
+        "due_date": "2030-03-30",
+        "date_disbursed": "2023-04-11 14:43:51",
+        "amount": "50000000"
+    }
+]
